@@ -1,2 +1,2 @@
 # Sp1ke
-Sp1ke is the moder e-ink watch.
+Sp1ke is the modern e-ink watch.
